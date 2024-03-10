@@ -8,7 +8,7 @@
 
 #### ⚪ Running Screen || Video
 <p align ="center">
-![1](https://github.com/MpqM/ML_MaliciousCodeAnalysis/assets/79093184/52d35298-5b76-4b28-84bc-8b3422d30052)
+   ![1](https://github.com/MpqM/ML_MaliciousCodeAnalysis/assets/79093184/1431b0e0-48df-4e84-8481-b1f2071f5c46)
 </p>
 
 - - -
